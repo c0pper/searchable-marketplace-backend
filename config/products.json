@@ -1,0 +1,162 @@
+[
+    {
+      "name": "Cloud Storage",
+      "description": "Secure and scalable cloud storage solution with flexible storage options.",
+      "img": "https://example.com/cloud-storage.jpg",
+      "category": "Storage",
+      "price": 10,
+      "rating": 4.5
+    },
+    {
+      "name": "Cloud Computing Instances",
+      "description": "Powerful virtual machines for running applications and workloads in the cloud.",
+      "img": "https://example.com/cloud-instances.jpg",
+      "category": "Compute",
+      "price": 20,
+      "rating": 4.2
+    },
+    {
+      "name": "Cloud Database Service",
+      "description": "Managed database service for storing and retrieving structured data in the cloud.",
+      "img": "https://example.com/cloud-database.jpg",
+      "category": "Database",
+      "price": 15,
+      "rating": 4.7
+    },
+    {
+      "name": "Cloud Content Delivery Network",
+      "description": "Global network of servers for fast and reliable content delivery across the globe.",
+      "img": "https://example.com/cloud-cdn.jpg",
+      "category": "Networking",
+      "price": 12,
+      "rating": 4.3
+    },
+    {
+      "name": "Cloud Monitoring Solution",
+      "description": "Comprehensive monitoring and analytics platform for cloud infrastructure and applications.",
+      "img": "https://example.com/cloud-monitoring.jpg",
+      "category": "Management",
+      "price": 18,
+      "rating": 4.6
+    },
+    {
+      "name": "Serverless Computing",
+      "description": "Run applications without managing servers, scale automatically, and pay only for usage.",
+      "img": "https://example.com/serverless-computing.jpg",
+      "category": "Compute",
+      "price": 25,
+      "rating": 4.8
+    },
+    {
+      "name": "Cloud Data Warehousing",
+      "description": "Efficiently analyze large volumes of data with a scalable and high-performance data warehouse.",
+      "img": "https://example.com/cloud-data-warehousing.jpg",
+      "category": "Analytics",
+      "price": 30,
+      "rating": 4.4
+    },
+    {
+      "name": "Cloud Backup and Recovery",
+      "description": "Automated backup and recovery solutions to protect critical data and applications.",
+      "img": "https://example.com/cloud-backup-recovery.jpg",
+      "category": "Security",
+      "price": 22,
+      "rating": 4.6
+    },
+    {
+      "name": "Cloud AI Services",
+      "description": "Harness the power of artificial intelligence with pre-built models and APIs for vision, speech, and language.",
+      "img": "https://example.com/cloud-ai-services.jpg",
+      "category": "Artificial Intelligence",
+      "price": 35,
+      "rating": 4.7
+    },
+    {
+      "name": "Cloud DevOps Tools",
+      "description": "Collaborative development and operations tools for efficient software delivery in the cloud.",
+      "img": "https://example.com/cloud-devops-tools.jpg",
+      "category": "Development",
+      "price": 28,
+      "rating": 4.3
+    },
+    {
+      "name": "Cloud Object Storage",
+      "description": "Scalable and durable storage for unstructured data with low latency access and high availability.",
+      "img": "https://example.com/cloud-object-storage.jpg",
+      "category": "Storage",
+      "price": 12,
+      "rating": 4.5
+    },
+    {
+      "name": "Cloud Load Balancer",
+      "description": "Distribute incoming network traffic across multiple servers to improve application availability and performance.",
+      "img": "https://example.com/cloud-load-balancer.jpg",
+      "category": "Networking",
+      "price": 15,
+      "rating": 4.2
+    },
+    {
+      "name": "Serverless Database",
+      "description": "Fully managed, auto-scaling database service that removes the need for database administration.",
+      "img": "https://example.com/serverless-database.jpg",
+      "category": "Database",
+      "price": 20,
+      "rating": 4.7
+    },
+    {
+      "name": "Cloud Video Transcoding",
+      "description": "Convert video files into various formats and resolutions for streaming and delivery across devices.",
+      "img": "https://example.com/cloud-video-transcoding.jpg",
+      "category": "Media",
+      "price": 18,
+      "rating": 4.3
+    },
+    {
+      "name": "Cloud Identity and Access Management",
+      "description": "Control access to cloud resources with centralized user management, permissions, and authentication.",
+      "img": "https://example.com/cloud-iam.jpg",
+      "category": "Security",
+      "price": 22,
+      "rating": 4.6
+    },
+    {
+      "name": "Cloud Container Orchestration",
+      "description": "Manage and automate the deployment, scaling, and management of containerized applications.",
+      "img": "https://example.com/cloud-container-orchestration.jpg",
+      "category": "Development",
+      "price": 25,
+      "rating": 4.8
+    },
+    {
+      "name": "Cloud IoT Platform",
+      "description": "Connect, manage, and analyze data from IoT devices securely and at scale in the cloud.",
+      "img": "https://example.com/cloud-iot-platform.jpg",
+      "category": "Internet of Things",
+      "price": 30,
+      "rating": 4.4
+    },
+    {
+      "name": "Cloud Server Backup",
+      "description": "Automated backup and restore services for server instances, ensuring data protection and recovery.",
+      "img": "https://example.com/cloud-server-backup.jpg",
+      "category": "Security",
+      "price": 28,
+      "rating": 4.7
+    },
+    {
+      "name": "Cloud CDN",
+      "description": "Distribute content globally with low latency and high data transfer speeds using a content delivery network.",
+      "img": "https://example.com/cloud-cdn.jpg",
+      "category": "Networking",
+      "price": 24,
+      "rating": 4.3
+    },
+    {
+      "name": "Cloud Machine Learning",
+      "description": "Build and deploy machine learning models at scale using cloud-based infrastructure and services.",
+      "img": "https://example.com/cloud-machine-learning.jpg",
+      "category": "Artificial Intelligence",
+      "price": 35,
+      "rating": 4.9
+    }
+  ]
